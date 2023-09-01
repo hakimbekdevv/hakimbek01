@@ -77,6 +77,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hakimbek01/hakimbek01/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hakimbek01/hakimbek01/snake.svg" alt="Snake animation" />
 
 ###
