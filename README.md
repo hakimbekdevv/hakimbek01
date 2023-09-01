@@ -1,34 +1,57 @@
-<h1 align="center">Salom 👋, men Hakimbek</h1>
-<h3 align="center">O‘zbekistonlik kichik Flutter dasturchisi</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=hakimbek01&label=Profile%20views&color=0e75b6&style=flat" alt="hakimbek01" /> </p>
+###
 
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakimbek01" alt="hakimbek01" /></a > </p>
+<h4 align="left">My name is Hakimbek and I'm a junior Flutter Developer, from Uzbekistan</h4>
 
-<p align="left"> <a href="https://twitter.com/hakimbek_dev" target="blank"><img src="https://img.shields.io/twitter/follow/hakimbek_dev?logo=twitter&style=for-the-badge" alt="hakimbek_dev" /></a> </p>
+###
 
-- 🔭 Men hozirda [Tursino] ustida ishlayapman(Mijoz xohlamaydi ko'rinadigan dastur kodi)
+<h2 align="left">About me</h2>
 
-- 👨‍💻 Barcha loyihalarim bilan [https://github.com/hakimbek01](https://github.com/hakimbek01) manzilida tanishishingiz mumkin
+###
 
-- 📝 Men muntazam ravishda [https://t.me/bekai_rasmiy” sahifasida maqolalar yozaman. ](https://t.me/bekai_rasmiy)
+<p align="left">🔭 I'm currently working on [Tursino] (App code that the client doesn't seem to want)<br><br>👨‍💻 You can find all my projects at https://github.com/hakimbek01<br><br>📝 I regularly write articles on the page https://t.me/bekai_rasmiy.<br><br>💬 Ask me about Flutter, Dart, GetX, Provider, Firebase, Applocalization, SharedPreferences, Hive, RESTful API, GitHub</p>
 
-- 💬 Mendan **Flutter, Dart, GetX, Provayder, Firebase, Applocalization, SharedPreferences, Hive, RESTful API, GiHub** haqida so‘rang -
+###
 
-📫 Men bilan qanday bog‘lanish mumkin **hakimbekdeveloper @gmail.com**
+<h2 align="left">I code with</h2>
 
-<h3 align="left">Men bilan bog'laning:</h3>
-<p align="left">
-<a href="https://twitter.com/hakimbek_dev" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hakimbek_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hakimbekdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakimbekdev" height="30" width="40" /></a> </p> <h3
-align
+###
 
-= "left">Tillar va asboblar:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang /dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel ="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a > <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> < img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href=" https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt=" uya" width="40" height="40"/> </a> </p>svg" alt="uya" width="40" height="40"/> </a> </p>svg" alt="uya" width="40" height="40"/> </a> </p>google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo .zone/logos/apache_hive/apache_hive-icon.svg" alt="uya" width="40" height="40"/> </a> </p>google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo .zone/logos/apache_hive/apache_hive-icon.svg" alt="uya" width="40" height="40"/> </a> </p>svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="uya" width="40" height="40"/> </a> </p>svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="uya" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakimbek01&show_icons=true&locale=en&layout=compact" alt="hakimbek01" /> </p>
+###
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hakimbek01&show_icons=true&locale=en" alt="hakimbek01" /> </p>
+<h3 align="left">Contact me</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hakimbek01&" alt="hakimbek01" /></p>
+###
 
+<p align="left">📫 How to contact me hakimbekdeveloper @gmail.com</p>
+
+###
