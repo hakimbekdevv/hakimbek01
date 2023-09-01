@@ -77,6 +77,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hakimbek01/hakimbek01/output/snake.yaml" alt="Snake animation" />
-
 ###
